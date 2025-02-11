@@ -8,7 +8,7 @@ import TwitterIcon from "@mui/icons-material/Twitter";
 const Footer = () => {
   return (
     <div className="footer_outer_container">
-      <div className="footer_inner-container">
+      <div className="footer_inner_container">
         <div className="footer_icons">
           <FacebookOutlinedIcon />
           <InstagramIcon />
