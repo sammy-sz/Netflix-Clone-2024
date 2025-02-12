@@ -1,0 +1,4 @@
+To get different Icons:- https://mui.com/material-ui/material-icons/
+Movies and TV shows:- https://developer.themoviedb.org/reference/genre-movie-list
+for deployment: https://www.npmjs.com/package/github-pages
+To get youtube channel ID:- https://commentpicker.com/youtube-channel-id.php#youtube-channel-id
